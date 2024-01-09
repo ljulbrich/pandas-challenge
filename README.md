@@ -8,7 +8,10 @@ You are the new Chief Data Scientist for your local government area. In this cap
 As a first task, you've been asked to analyse the area-wide standardised test results. You'll be given access to every student's maths and reading scores, as well as various information on the schools they attend. Your task is to aggregate the data to showcase obvious trends in school performance.
 
 ## Files
-
+PyCitySchools:
+    PyCitySchools.ipynb
+    * This is the main jupyter notebook for this challenge
+    * The jupyter notebook contains all the used code as well as the data analysis
 ## Sources
 
 Below are a list of sources for the advanced pandas functions I have used:
