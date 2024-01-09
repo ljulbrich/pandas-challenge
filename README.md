@@ -12,6 +12,15 @@ PyCitySchools:
     PyCitySchools.ipynb
     * This is the main jupyter notebook for this challenge
     * The jupyter notebook contains all the used code as well as the data analysis
+
+    PyCitySchools_starter.ipynb
+    * This jupyter notebook was used to start the challenge
+    * The code has been migrated to PyCitySchools.ipynb
+
+    Resources:
+        schools_complete.csv and students_data.csv
+        * datasets referenced in this challenge
+
 ## Sources
 
 Below are a list of sources for the advanced pandas functions I have used:
